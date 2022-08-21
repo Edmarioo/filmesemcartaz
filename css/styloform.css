@@ -1,0 +1,26 @@
+.filme{
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #eee;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+filme img{
+width: 100%;
+margin-bottom: 10px;
+
+
+}
+
+
+h1{
+    background-color: bisque;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+   
+}
